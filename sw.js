@@ -1,6 +1,6 @@
 // Offline-Betrieb: Das Spiel wird beim ersten Start gespeichert und läuft danach
 // auch ohne Internet. Bei Verbindung wird immer zuerst die neueste Version geholt.
-const CACHE = 'industrie-automation-1794339140501';
+const CACHE = 'industrie-automation-1794407386555';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
